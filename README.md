@@ -1,8 +1,5 @@
 # app-dev
 My first repository
-[9:04 pm] Gabriel, Jim Miguel (Student)
-# app-dev
-My first repository.
 
 1. Prison Break        
       - Prison Break is an American serial drama television series created by Paul Scheuring for Fox. The series revolves around two brothers, Lincoln Burrows (Dominic           Purcell) and Michael Scofield (Wentworth Miller); Burrows has been sentenced to death for a crime he did not commit, while Scofield devises an elaborate plan to         help his brother escape prison and clear his name. 
